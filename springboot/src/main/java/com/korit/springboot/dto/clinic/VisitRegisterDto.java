@@ -2,6 +2,7 @@ package com.korit.springboot.dto.clinic;
 
 //import com.korit.springboot.mapper.dto.Visit;
 import com.korit.springboot.domain.visit.Visit;
+import com.korit.springboot.domain.visit.VisitRepository;
 import lombok.Data;
 
 import java.time.LocalDateTime;
